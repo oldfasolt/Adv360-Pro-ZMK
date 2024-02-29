@@ -6,7 +6,8 @@
     "base",
     "keypad",
     "fn",
-    "mod"
+    "mod",
+    "SYM"
   ],
   "layers": [
     [
@@ -33,6 +34,12 @@
         "&none",        "&none",        "&none",        "&none",        "&none",        "&none",                 "&none",  "&none",  "&none",                     "&bt BT_CLR",      "&none", "&rgb_ug RGB_MEFS_CMD 5",  "&none",      "&none",      "&none",  "&none",  "&none",  "&none",
         "&none",        "&none",        "&none",        "&none",   "&macro_ver",        "&none",                                     "&none",                          "&none",                                          "&none",      "&none",      "&none",  "&none",  "&none",  "&none",
         "&none",        "&none",        "&none",        "&none",        "&none",                                 "&none",  "&none",  "&none",                          "&none", "&bl BL_TOG",        "&rgb_ug RGB_TOG",           "&bl BL_INC", "&bl BL_DEC",  "&none",  "&none",  "&none"
+    ], [
+       "&trans",           "&trans",        "&trans",           "&trans",            "&trans",           "&trans",           "&trans",                                                             "&trans",        "&trans",          "&trans",               "&trans",                "&trans",       "&trans", "&trans",
+       "&trans", "&kp SINGLE_QUOTE", "&kp LESS_THAN", "&kp GREATER_THAN", "&kp DOUBLE_QUOTES",          "&kp DOT",           "&trans",                                                             "&trans", "&kp AMPERSAND", "&macro_macro_ns",     "&kp LEFT_BRACKET",     "&kp RIGHT_BRACKET",  "&kp PERCENT", "&trans",
+       "&trans",  "&kp EXCLAMATION",     "&kp MINUS",         "&kp PLUS",         "&kp EQUAL",         "&kp HASH",           "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans",      "&kp PIPE",       "&kp COLON", "&kp LEFT_PARENTHESIS", "&kp RIGHT_PARENTHESIS", "&kp QUESTION", "&trans",
+       "&trans",        "&kp CARET",     "&kp SLASH",         "&kp STAR",     "&kp BACKSLASH", "&macro_macro_dir",                               "&trans",                     "&trans",                         "&kp TILDE",      "&kp DOLLAR",       "&kp LEFT_BRACE",       "&kp RIGHT_BRACE",  "&kp AT_SIGN", "&trans",
+       "&trans",           "&trans",        "&trans",           "&trans",            "&trans",                               "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans",                           "&trans",               "&trans",                "&trans",       "&trans", "&trans"
     ]
   ]
 }
